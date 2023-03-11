@@ -36,18 +36,27 @@
 <p align="center"><a href="https://github.com/Zyrenn"><img src="https://github-readme-stats.vercel.app/api?username=Zyrenn&show_icons=true&theme=radical"></a></p>
 </div>
 
-## INSTALASI
+# INSTALASI
+## INFOO
 ```bash
-Ini Berisi File BernamaTzy.py
-Tzy.py Adalah Salah Satu Alat DDoS terbaik Yang Ditulis Dengan Python.
+Ini Berisi File Bernama etek.py
+etek.py Adalah Salah Satu Alat DDoS terbaik Yang Ditulis Dengan Python.
+```
+## CARA INSTALL
+```ts
 Perintah Instalasi:-
 pkg install python2
 git clone "https://github.com/Zyrenn/Ddos-v1.git"
 chmod x Tzy.py
-
+```
+## PENGGUNAAN
+```ls
 Penggunaan:-
 python2 Tzy.py "Link Web"
 Contoh:- python2 Tzy.py http://www.kalkaeducationalsociety.com
+```
+## HASILL
+```pl
 Jika Hasilnya CODE 500 Maka Serangan DoS Anda Berhasil.
 Jabat Tangan!!
 Tetapi Beberapa Situs Web Memblokir Ip Anda yang Mungkin Juga Menampilkan CODE RESPON 500
