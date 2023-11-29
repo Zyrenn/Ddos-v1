@@ -3,7 +3,7 @@
 <h1 align="center">🔥 𝚆𝙴𝙻𝙲𝙾𝙼𝙴 🔥</h1>
 <br>
 <div align="center">
-<img src="https://a.uguu.se/NFFNJRNf.jpg">
+<img src="https://raw.githubusercontent.com/Zyrenn/Mihye/main/1.jpg">
 </div>
 <br>
 </p>
